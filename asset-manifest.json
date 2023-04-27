@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/appwallet/static/css/main.073c9b0a.css",
+    "main.js": "/appwallet/static/js/main.491fc2c3.js",
+    "static/js/787.2ec30a7c.chunk.js": "/appwallet/static/js/787.2ec30a7c.chunk.js",
+    "static/media/logo.svg": "/appwallet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/appwallet/index.html",
+    "main.073c9b0a.css.map": "/appwallet/static/css/main.073c9b0a.css.map",
+    "main.491fc2c3.js.map": "/appwallet/static/js/main.491fc2c3.js.map",
+    "787.2ec30a7c.chunk.js.map": "/appwallet/static/js/787.2ec30a7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.491fc2c3.js"
+  ]
+}
